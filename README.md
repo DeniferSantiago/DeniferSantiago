@@ -2,10 +2,10 @@
 <p align="center">
 <img style="height: 10em; margin: 1em 0;" src="./images/profile.png">
 </p>
-<p align="center" style="color:#fff; font-size: 2em;">
+<h1 align="center" style="color:#fff; font-size: 2em;">
 <em>Denifer Santiago</em>
 <b>(FullStack Developer)</b>
-</p>
+</h1>
 
 ## 📈 &nbsp;<span style="color: #fff;">GitHub Activity</span>
 <p align="center">
