@@ -13,21 +13,13 @@
 </p>
 
 ## 📊 &nbsp;<span style="color: #fff;">Code Analytics</span>
-<table align="center">
-<tr>
-<td>
+<p align="center">
 <a target="_blank" href="https://wakatime.com/@DeniferSantiago">
 <img height="180em" alt="Denifer's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=DeniferSantiago&theme=vue&bg_color=2E3331&text_color=fff&title_color=00FFB1">
-</a>
-</td>
-<td>
-<a target="_blank" href="https://wakatime.com/@DeniferSantiago">
+</a> <a target="_blank" href="https://wakatime.com/@DeniferSantiago">
 <img height="180em" alt="Denifer's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeniferSantiago&langs_count=4&theme=vue&bg_color=2E3331&text_color=fff&title_color=00FFB1">
 </a>
-</td>
-</tr>
-<table>
-
+</p>
 
 ### ✅ &nbsp;<span style="color: #fff;">Programming Languages</span>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%2300E8A1&labelColor=&232E3331&color=%232E3331"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=%2300E8A1&labelColor=&232E3331&color=%232E3331"/> <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=%2300E8A1&labelColor=&232E3331&color=%232E3331"/>
