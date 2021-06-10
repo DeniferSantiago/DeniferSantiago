@@ -1,6 +1,6 @@
 <div style="background:linear-gradient(160deg, rgba(27,28,28,1) 50%, rgba(0,232,161,1) 100%); padding: 0 0.5em;">
 <p align="center">
-<img style="height: 10em; margin: 1em 0;" src="./images/IMG_2640.png">
+<img style="height: 10em; margin: 1em 0;" src="./images/profile.png">
 </p>
 <p align="center" style="color:#fff; font-size: 2em;">
 <em>Denifer Santiago</em>
