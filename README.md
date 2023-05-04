@@ -4,7 +4,7 @@
 </p>
 <h1 align="center" style="color:#fff; font-size: 2em;">
 <em>Denifer Santiago</em>
-<b>(FullStack Developer)</b>
+<b>(Mobile Developer)</b>
 </h1>
 
 ## 📈 &nbsp;<span style="color: #fff;">GitHub Activity</span>
