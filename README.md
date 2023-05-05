@@ -15,7 +15,7 @@
 ## 📊 &nbsp;<span style="color: #fff;">Code Analytics</span>
 <p align="center">
 <a target="_blank" href="https://wakatime.com/@DeniferSantiago">
-<img height="180em" alt="Denifer's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=DeniferSantiago&theme=vue&bg_color=2E3331&text_color=fff&title_color=00FFB1">
+<img height="180em" alt="Denifer's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=DeniferSantiago&theme=vue&bg_color=2E3331&text_color=fff&title_color=00FFB1&range=last_7_days">
 </a> <a target="_blank" href="https://wakatime.com/@DeniferSantiago">
 <img height="180em" alt="Denifer's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeniferSantiago&langs_count=4&theme=vue&bg_color=2E3331&text_color=fff&title_color=00FFB1">
 </a>
