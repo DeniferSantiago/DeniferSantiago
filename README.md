@@ -9,7 +9,7 @@
 
 ## 📈 &nbsp;<span style="color: #fff;">GitHub Activity</span>
 <p align="center">
-<img height="200em" alt="Denifer's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DeniferSantiago&show_icons=true&theme=vue&bg_color=2E3331&text_color=fff&title_color=00FFB1&show=reviews,prs_merged,prs_merged_percentage">
+<img height="200em" alt="Denifer's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DeniferSantiago&show_icons=true&theme=vue&bg_color=2E3331&text_color=fff&title_color=00FFB1&show=reviews,prs_merged&hide=contribs">
 </p>
 
 ## 📊 &nbsp;<span style="color: #fff;">Code Analytics</span>
